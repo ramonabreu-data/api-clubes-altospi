@@ -4,6 +4,10 @@ from db import Titulos
 app = Flask('__name__')
 app.config['JSON_SORT_KEYS'] = False
 
+@app.route("/")
+def hello_world():
+    return "<p> API Altos Operante!</p>"
+
 @app.route('/titulos', methods = ['GET'])
 def get_titulos():
     return make_response(
@@ -23,4 +27,4 @@ def create_titulo():
     )
 
 
-app.run()
+#app.run()
