@@ -1,32 +1,32 @@
 Titulos = [
     {
         'id':1,
-        'título':'Campeonato Piauiense - Segunda Divisão',
+        'titulo':'Campeonato Piauiense - Segunda Divisão',
         'ano': '2015'
     },
     {
         'id':2,
-        'título':'Taça Cidade de Teresina',
+        'titulo':'Taça Cidade de Teresina',
         'ano': '2017 '
     },
      {
         'id':3,
-        'título':'Taça Cidade de Teresina',
+        'titulo':'Taça Cidade de Teresina',
         'ano': '2018'
     },
     {
         'id':4,
-        'título':'Campeonato Piauiense ',
+        'titulo':'Campeonato Piauiense ',
         'ano': '2017'
     },
      {
         'id':5,
-        'título':'Campeonato Piauiense ',
+        'titulo':'Campeonato Piauiense ',
         'ano': '2018'
     },
      {
         'id':6,
-        'título':'Campeonato Piauiense ',
+        'titulo':'Campeonato Piauiense ',
         'ano': '2021'
     },
 ]
